@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\bin\Debug\net6.0\EjercicioClase.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\bin\Debug\net6.0\EjercicioClase.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\bin\Debug\net6.0\EjercicioClase.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\bin\Debug\net6.0\EjercicioClase.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\bin\Debug\net6.0\EjercicioClase.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\obj\Debug\net6.0\EjercicioClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\obj\Debug\net6.0\EjercicioClase.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\obj\Debug\net6.0\EjercicioClase.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\obj\Debug\net6.0\EjercicioClase.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\obj\Debug\net6.0\EjercicioClase.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\obj\Debug\net6.0\refint\EjercicioClase.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\obj\Debug\net6.0\EjercicioClase.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\obj\Debug\net6.0\EjercicioClase.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\EjercicioClase\obj\Debug\net6.0\ref\EjercicioClase.dll
